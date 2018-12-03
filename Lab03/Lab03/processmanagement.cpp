@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include<iomanip>
-#include "lab3.h"
+#include "Process.h"
 using namespace std;
 void FCFS(Process*, int, Process*);
 void Priority(Process*, int, Process*);
